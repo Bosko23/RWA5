@@ -4,3 +4,4 @@ interface Igrac{
     name: string;
     lastName: string;
 }
+export default Igrac;
