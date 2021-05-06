@@ -1,0 +1,9 @@
+{
+    "igraci": [
+      { "brDresa": 23, "ime": "Lebron", "prezime": "James" , "brPoena": 26 },
+      { "brDresa": 15, "ime": "Nikola", "prezime": "Jokic" , "brPoena": 28 },
+      { "brDresa": 13, "ime": "James", "prezime": "Harden" , "brPoena": 31 },
+      { "brDresa": 77, "ime": "Luka", "prezime": "Doncic" , "brPoena": 30 },
+      { "brDresa": 21, "ime": "Joel", "prezime": "Embid" , "brPoena": 27 }
+    ]
+  }
